@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express": "^4.15.3",
+    "universal-analytics": "^0.4.13"
+  }
+}
